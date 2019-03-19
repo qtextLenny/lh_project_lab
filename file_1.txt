@@ -2,3 +2,6 @@ this is a new line
 keep
 it
 work safe
+I'm working
+in your
+folder
